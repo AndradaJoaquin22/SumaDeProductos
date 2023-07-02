@@ -1,0 +1,8 @@
+C:\Users\Lautaro\Desktop\csharp\SumaDeProductos\SumaDeProductos\bin\Debug\SumaDeProductos.exe.config
+C:\Users\Lautaro\Desktop\csharp\SumaDeProductos\SumaDeProductos\bin\Debug\SumaDeProductos.exe
+C:\Users\Lautaro\Desktop\csharp\SumaDeProductos\SumaDeProductos\bin\Debug\SumaDeProductos.pdb
+C:\Users\Lautaro\Desktop\csharp\SumaDeProductos\SumaDeProductos\obj\Debug\SumaDeProductos.csproj.AssemblyReference.cache
+C:\Users\Lautaro\Desktop\csharp\SumaDeProductos\SumaDeProductos\obj\Debug\SumaDeProductos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lautaro\Desktop\csharp\SumaDeProductos\SumaDeProductos\obj\Debug\SumaDeProductos.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\csharp\SumaDeProductos\SumaDeProductos\obj\Debug\SumaDeProductos.exe
+C:\Users\Lautaro\Desktop\csharp\SumaDeProductos\SumaDeProductos\obj\Debug\SumaDeProductos.pdb
